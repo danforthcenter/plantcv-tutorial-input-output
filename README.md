@@ -3,7 +3,7 @@
 The input-output tutorial shows examples of methods used to open and save data
 with PlantCV.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-binder/HEAD?filepath=notebooks/input_output_tutorial/input_output.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-input-output/tree/main/HEAD)
 
 ## Tags/keywords
 
