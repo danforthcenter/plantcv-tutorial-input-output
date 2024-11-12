@@ -1,5 +1,7 @@
 # PlantCV Input-Output Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-input-output/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-input-output/actions/workflows/ci-tests.yml)
+
 The input-output tutorial shows examples of methods used to open and save data
 with PlantCV.
 
