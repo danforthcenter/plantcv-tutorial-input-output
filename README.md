@@ -6,7 +6,6 @@ The input-output tutorial shows examples of methods used to open and save data
 with PlantCV.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-input-output/HEAD?filepath=index.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-input-output/blob/main/index-Colab.ipynb)
 
 ## Tags/keywords
 
